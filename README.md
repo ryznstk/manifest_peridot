@@ -1,7 +1,7 @@
 Initialize after init repo roms
 
 ```
-git clone https://github.com/droidcore/manifest_peridot.git -b lineage-23.0 .repo/local_manifests/
+git clone https://github.com/ryznstk/manifest_peridot.git -b lineage-23.0 .repo/local_manifests/
 ```
 
 And sync repo
