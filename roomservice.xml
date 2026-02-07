@@ -3,5 +3,5 @@
     <project name="ryznstk/device_xiaomi"
         path="device/xiaomi/peridot"
         remote="github"
-        revision="evo" />
+        revision="lunaris" />
 </manifest>
