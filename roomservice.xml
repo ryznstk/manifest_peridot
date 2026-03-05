@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-    <project name="ryznstk/android_device_xiaomi_peridot"
+    <project name="ryznstk/device_xiaomi_peridot"
         path="device/xiaomi/peridot"
         remote="github"
-        revision="inf" />
+        revision="evo" />
 </manifest>
